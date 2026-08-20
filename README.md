@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hardik Sharma</h1>
-<h3 align="center">Full-Stack Software Engineer · .NET 8 / C# / React · Jaipur, India</h3>
+<h3 align="center">Full-Stack Software Engineer · .NET 8 / C# / React</h3>
 
 <p align="center">
   <a href="mailto:hardik.sharma645@gmail.com"><img src="https://img.shields.io/badge/Email-hardik.sharma645%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/athera/"><img src="https://img.shields.io/badge/LinkedIn-Hardik%20Sharma-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <img src="https://img.shields.io/badge/Location-Jaipur%2C%20Rajasthan%2C%20India-4285F4?style=flat&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
 
 ### 🚀 About Me
