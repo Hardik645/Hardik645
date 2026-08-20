@@ -199,19 +199,43 @@ Exploring distributed systems, event-driven architecture, and AI-assisted develo
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hardik645&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&title_color=6C5CE7&icon_color=6C5CE7#gh-light-mode-only" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardik645&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=6C5CE7#gh-light-mode-only" alt="Top languages" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Hardik645&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&bg_color=00000000&title_color=8B7CF6&icon_color=8B7CF6&text_color=c9d1d9#gh-dark-mode-only" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardik645&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=00000000&title_color=8B7CF6&text_color=c9d1d9#gh-dark-mode-only" alt="Top languages" height="165"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Hardik645&hide_border=true&background=00000000&stroke=6C5CE7&ring=6C5CE7&fire=D14836&currStreakLabel=6C5CE7" alt="GitHub streak"/>
+<img src="https://img.shields.io/github/followers/Hardik645?style=flat-square&logo=github&color=6C5CE7&labelColor=1c1c1c" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/Hardik645?style=flat-square&logo=github&color=6C5CE7&labelColor=1c1c1c" alt="Stars"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Hardik645&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hardik645&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hardik645&theme=github" alt="Profile summary" width="800"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hardik645&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hardik645&theme=github" alt="Top languages by repo" height="200"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hardik645&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hardik645&theme=github" alt="Top languages by commit" height="200"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hardik645&theme=github_dark&utcOffset=5.5"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hardik645&theme=github&utcOffset=5.5" alt="Productive time" height="200"/>
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Hardik645&hide_border=true&background=00000000&stroke=8B7CF6&ring=8B7CF6&fire=D97757&currStreakLabel=8B7CF6&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e"/>
+  <img src="https://streak-stats.demolab.com/?user=Hardik645&hide_border=true&background=00000000&stroke=6C5CE7&ring=6C5CE7&fire=D14836&currStreakLabel=6C5CE7" alt="GitHub streak"/>
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Hardik645&bg_color=00000000&color=8B7CF6&title_color=8B7CF6&line=8B7CF6&point=c9d1d9&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hardik645&bg_color=00000000&color=6C5CE7&title_color=6C5CE7&line=6C5CE7&point=512BD4&area=true&hide_border=true" alt="Contribution graph" width="100%"/>
+</picture>
 
 </div>
 
